@@ -888,4 +888,5 @@ This is the Management System setting page of the Device Admin; it has features 
 ---
 
 ## 📧 Contact Email:
-[![Email](https://img.shields.io/badge/Contact-Email%20Us-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opensource@mpowerr.com)
+[![Email](https://img.shields.io/badge/Email-opensource%40mpowerr.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opensource@mpowerr.com)
+
