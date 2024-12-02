@@ -872,7 +872,7 @@ This is the Management System setting page of the Device Admin; it has features 
 # Contact
 
 ## 🌐 Website:
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mpowerr.com)
+[![Visit: www.mpowerr.com](https://img.shields.io/badge/Visit%20Website-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mpowerr.com)
 
 ---
 
