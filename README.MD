@@ -1,4 +1,4 @@
-# Human Elephant Conflict Mitigation System
+# Mpowerr HECMS
 
 ## Repo Structure
 
